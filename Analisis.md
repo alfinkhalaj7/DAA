@@ -1,7 +1,6 @@
 # "Pengembangan Platform Pembelajaran Seni Rupa Digital untuk Meningkatkan Kreativitas Anak Muda"
 
 ### **Latar Belakang:**
-
 Di tengah kemajuan teknologi dan akses informasi yang semakin mudah, pendidikan seni masih sering dianggap sebagai bidang yang kurang mendapat perhatian serius, terutama di Indonesia. Meskipun seni memiliki peran yang sangat penting dalam membentuk kreativitas, kecerdasan emosional, dan kemampuan berpikir kritis, sektor ini sering kali terabaikan, terutama di daerah-daerah yang terbatas fasilitasnya. Bakat seni pada anak muda sering kali tidak tergali maksimal karena kurangnya akses terhadap fasilitas, pelatihan, atau pengajaran yang berkualitas.
 
 Selain itu, meskipun terdapat berbagai platform pembelajaran online, banyak yang lebih berfokus pada pendidikan berbasis teori dan tidak mengintegrasikan elemen-elemen praktis yang dapat mengasah keterampilan seni secara langsung. Hal ini membuat banyak anak muda yang tertarik pada seni merasa kesulitan untuk mengembangkan bakat mereka karena keterbatasan tempat belajar yang sesuai dan instruktur yang mampu memberikan pengajaran yang mendalam.
@@ -48,7 +47,6 @@ Platform Pembelajaran Seni Rupa Digital Kreatif adalah sebuah perusahaan yang di
    
 5. **Manajemen Waktu dan Kompetisi:**
    - Penjadwalan proyek seni, pengingat latihan, serta kompetisi atau pameran seni untuk mendorong peserta agar terus berkembang dan berinovasi.
-
 
 
 ### 2. **Porsi Latihan (Seni Rupa)**
