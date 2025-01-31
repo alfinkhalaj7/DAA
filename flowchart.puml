@@ -1,0 +1,50 @@
+@startuml
+start
+:Pengguna Membuka Platform;
+
+if (Pengguna sudah memiliki akun?) then (Ya)
+    :Pengguna Login;
+    if (Login Valid?) then (Ya)
+        :Masuk ke Dashboard;
+    else (Tidak)
+        :Tampilkan Pesan Kesalahan;
+        stop
+    endif
+else (Tidak)
+    :Pengguna Mendaftar Akun Baru;
+    :Masuk ke Dashboard;
+endif
+
+while (Pengguna Mengakses Fitur?)
+    :Pilih Menu;
+    if (Buat Karya Seni?) then (Ya)
+        :Buka Editor Seni;
+        :Unggah Karya Seni;
+        :Simpan & Publikasikan;
+    endif
+
+    if (Melihat Galeri?) then (Ya)
+        :Tampilkan Karya Seni Pengguna Lain;
+    endif
+
+    if (Memberikan Komentar?) then (Ya)
+        :Tulis Komentar;
+        :Kirim Komentar;
+    endif
+
+    if (Mengikuti Kursus?) then (Ya)
+        :Pilih Kursus Seni;
+        :Mulai Belajar;
+        :Selesaikan Tugas;
+    endif
+
+    if (Mengikuti Lomba?) then (Ya)
+        :Daftar Lomba;
+        :Unggah Karya Untuk Lomba;
+        :Menunggu Penilaian;
+    endif
+endwhile
+
+:Pengguna Logout;
+stop
+@enduml
