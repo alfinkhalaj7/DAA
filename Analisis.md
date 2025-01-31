@@ -23,6 +23,32 @@ Melalui platform ini, diharapkan dapat menghubungkan anak muda dengan potensi kr
 
 4. **Memberikan Akses Pendidikan Seni yang Lebih Merata:** Menghadirkan pendidikan seni yang berkualitas untuk anak muda di berbagai daerah, termasuk yang sulit mengakses fasilitas seni yang baik.
 
+### **5W 1H untuk Pengembangan Platform Pembelajaran Seni Rupa Digital:**
+
+1. **What (Apa):**
+   - Pengembangan platform pembelajaran seni rupa digital yang menyediakan kursus interaktif, tutorial bertahap, proyek seni, dan komunitas kreatif untuk anak muda di seluruh Indonesia.
+
+2. **Who (Siapa):**
+   - Platform ini ditujukan untuk anak muda yang ingin belajar dan mengembangkan keterampilan seni rupa, seperti menggambar, melukis, dan desain grafis digital.
+   - Dikelola oleh tim pengembang dan pembina seni yang memiliki pengetahuan dan pengalaman dalam seni rupa dan teknologi digital.
+
+3. **When (Kapan):**
+   - Platform ini direncanakan akan diluncurkan pada tahun 2024, dengan pengembangan dan implementasi tahap awal dimulai pada 2023.
+   - Program pelatihan untuk pembina seni juga akan dimulai sejak platform beroperasi untuk memberikan dukungan yang lebih baik kepada peserta.
+
+4. **Where (Di Mana):**
+   - Platform ini dapat diakses secara online, memungkinkan pengguna di seluruh Indonesia, terutama di daerah-daerah yang memiliki akses terbatas terhadap pendidikan seni, untuk mengakses materi dan tutorial seni rupa secara digital.
+
+5. **Why (Mengapa):**
+   - Untuk menyediakan akses pendidikan seni berkualitas yang dapat diakses oleh anak muda di seluruh Indonesia, meningkatkan kreativitas, serta mengembangkan potensi seni rupa mereka melalui pembelajaran yang berbasis teknologi dan praktik.
+   - Untuk mengatasi masalah keterbatasan fasilitas pendidikan seni, terutama di daerah terpencil.
+
+6. **How (Bagaimana):**
+   - Platform ini akan dibangun dengan menggunakan teknologi seperti Laravel untuk backend, Docker untuk containerisasi, dan MySQL untuk database. 
+   - Pengguna akan dapat mengakses kursus interaktif, mengikuti proyek seni, serta mendapatkan umpan balik dari mentor melalui sistem yang terintegrasi.
+   - Fitur-fitur tambahan seperti pendaftaran untuk kompetisi seni, manajemen waktu, dan pengingat latihan juga akan disediakan untuk mendorong partisipasi aktif dan peningkatan keterampilan pengguna.
+
+
 ### 1. **Company Profile:**
 Nama Perusahaan:
 Platform Pembelajaran Seni Rupa Digital Kreatif
